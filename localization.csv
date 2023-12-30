@@ -47,3 +47,27 @@ nl_NL,rails_2,(kopieer en plak in de chat)
 nl_NL,logout_caption,Welkom! Ingelogd als
 nl_NL,logout_button,Uitloggen
 nl_NL,sources_used,De volgende context is gebruikt voor dit antwoord:
+ja_JP,connect_astra,Astra DBへの接続を確立...
+ja_JP,load_embedding,OpenAIのembeddingを設定...
+ja_JP,load_vectorstore,Astra DBをVector Storeとして設定...
+ja_JP,load_retriever,Retrieverを設定...
+ja_JP,load_message_history,Astra DBからMessage Historyを取得...
+ja_JP,load_model,OpenAIのChat Modelを設定...
+ja_JP,load_context,コンテキスト強化のためにドキュメントをアップロード
+ja_JP,load_context_button,保存
+ja_JP,delete_context,"コンテキストと履歴を削除して初めからやり直す。注意：全ユーザーのベクトルエンべディングが削除されます!"
+ja_JP,delete_context_button,コンテキスト削除
+ja_JP,deleting_context,コンテキストを削除し、初期化します...
+ja_JP,delete_memory,"対話記憶の履歴を削除します。"
+ja_JP,deleting_memory,記憶を削除します...
+ja_JP,delete_memory_button,チャット履歴削除
+ja_JP,assistant_welcome,"こんにちは！パーソナルアシスタントを務めますので、よろしくお願いします！"
+ja_JP,assistant_question,ご質問をどうぞ
+ja_JP,load_text,Astra DBにチャンクを書き込みます
+ja_JP,load_pdf,Astra DBにページを書き込みます
+ja_JP,assistant_leadin,例えば、次のように入力します:
+ja_JP,rails_1,🤩 以下のプロンプトが試せます ⬇️
+ja_JP,rails_2,(コピーして、チャットボックスにペーストしてください)
+ja_JP,logout_caption,ようこそ! ユーザー名:
+ja_JP,logout_button,ログアウト
+ja_JP,sources_used,回答のために、このコンテキストを使いました:

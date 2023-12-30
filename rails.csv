@@ -11,3 +11,10 @@ datastax,4,Write an email for a prospect about Astra DB
 datastax,5,What advantages does Astra DB offer for Generative AI?
 datastax,6,What strategies exits for meaningful agent interaction
 datastax,7,How can I use Astra DB in a RAG application?
+datastaxjp,1,DataStaxとは何ですか?
+datastaxjp,2,ベクトル検索とは何ですか?
+datastaxjp,3,なぜAstra DBが最高である理由を教えてください!
+datastaxjp,4,Astra DBを買いそうな見込み客へ送る電子メールの本文を書いてください
+datastaxjp,5,Astra DBが生成AIに対して提供する機能は何でしょうか?
+datastaxjp,6,エージェントとの対話を改善する方法としてはどのような方法があるでしょうか?
+datastaxjp,7,RAGアプリケーションの中で、どのようにAstra DBを利用できるでしょうか?
